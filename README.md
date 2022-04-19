@@ -1,4 +1,4 @@
-# Earth-s-Gravitational-Acceleration-Considering-EGM2008-Gravity-Model
+# Earth-s-Gravitational-Acceleration-Using-EGM2008-Gravity-Model
 
 In this project, a functon for MATLAB has been developed to compute Earth's gravitational acceleration using EGM-2008 gravity model. The function works 8 to 10 times
 faster comparing to ‘gravitysphericalharmonic’ function of Aerospace toolbox of MATLAB when tested in MATLAB R2019a and using 120 degree and order of EGM-2008.
